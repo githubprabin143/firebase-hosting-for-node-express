@@ -1,0 +1,8 @@
+{
+  "name": "node_mongodb_mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Prabin Karki",
+  "license": "MIT"
+}

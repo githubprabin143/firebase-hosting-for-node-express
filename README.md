@@ -1,4 +1,4 @@
-**Express Mongoose**
+**Express Mongoose Hosting as a Firebase Function**
 **This server is made with Express and MongoDB**
 
 **Available Scripts**

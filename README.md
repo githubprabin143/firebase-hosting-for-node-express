@@ -3,7 +3,7 @@
 
 **Available Scripts**
 
-- To Run (cd functions)
+- To Run (cd functions) <br/>
 `` "scripts": {
     "serve": "firebase emulators:start --only functions",
     "shell": "firebase functions:shell",
@@ -12,7 +12,7 @@
     "logs": "firebase functions:log"
   },
 ``
-
+<br/>
 **_Note_**
 make sure to run npm install before running above script inside functions folder
 
